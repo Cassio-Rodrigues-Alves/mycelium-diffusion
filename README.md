@@ -12,7 +12,7 @@
 
 
 
-## 🍄 Overview
+## Overview
 
 
 
@@ -30,7 +30,7 @@ By utilizing a **Stone-Sand Duality**, the model separates static knowledge (Sto
 
 
 
-## 🚀 Key Results & Benchmarks
+## Key Results & Benchmarks
 
 
 
@@ -78,7 +78,7 @@ The Meta-Nerve acts as a dynamic surgical instrument. By visualizing the uncerta
 
 
 
-## 🏗 Quick Start
+## Quick Start
 
 
 
@@ -114,7 +114,7 @@ python mycelium_core.py
 
 
 
-## 📜 Citation
+## Citation
 
 
 
@@ -140,7 +140,7 @@ If you use this architecture or code in your research, please cite:
 
 
 
-## 📧 Contact
+## Contact
 
 Feel free to open an issue or reach out via [minhacontaia2008@gmail.com](mailto:minhacontaia2008@gmail.com). 
 
